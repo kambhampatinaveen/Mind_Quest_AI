@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindQuest — AI Multi-Skill Challenge
 
 A full-stack, modular-monolith implementation of the MindQuest project shown in the supplied reference image.
@@ -63,3 +64,6 @@ CLIENT_URL=http://localhost:5173
 - MongoDB is required for persistent accounts/results.
 - If the backend cannot connect to MongoDB, the frontend still loads, but login/game result persistence will not work.
 - The performance-analysis layer is intentionally deterministic/rule-based so the project works without a paid AI API. It is the "smart analysis" layer requested in the documentation and can later be replaced by an LLM provider.
+=======
+# MindQuest
+>>>>>>> c4041fcbfbb08fadcaa311db142d1dff6c004b59
